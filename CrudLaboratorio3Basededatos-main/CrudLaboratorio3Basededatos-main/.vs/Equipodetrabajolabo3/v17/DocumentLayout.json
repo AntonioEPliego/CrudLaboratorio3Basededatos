@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|c:\\users\\anton\\downloads\\crudlaboratorio3basededatos-mainvd\\crudlaboratorio3basededatos-main\\crudlaboratorio3basededatos-main\\equipodetrabajolabo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|solutionrelative:equipodetrabajolabo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|c:\\users\\anton\\downloads\\crudlaboratorio3basededatos-mainvd\\crudlaboratorio3basededatos-main\\crudlaboratorio3basededatos-main\\equipodetrabajolabo3\\equipodetrabajolabo3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|solutionrelative:equipodetrabajolabo3\\equipodetrabajolabo3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|c:\\users\\anton\\downloads\\crudlaboratorio3basededatos-mainvd\\crudlaboratorio3basededatos-main\\crudlaboratorio3basededatos-main\\equipodetrabajolabo3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|solutionrelative:equipodetrabajolabo3\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|c:\\users\\anton\\downloads\\crudlaboratorio3basededatos-mainvd\\crudlaboratorio3basededatos-main\\crudlaboratorio3basededatos-main\\equipodetrabajolabo3\\migrations\\20240504081051_addequipostabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|solutionrelative:equipodetrabajolabo3\\migrations\\20240504081051_addequipostabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|c:\\users\\anton\\downloads\\crudlaboratorio3basededatos-mainvd\\crudlaboratorio3basededatos-main\\crudlaboratorio3basededatos-main\\equipodetrabajolabo3\\migrations\\20240505053117_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|solutionrelative:equipodetrabajolabo3\\migrations\\20240505053117_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|c:\\users\\anton\\downloads\\crudlaboratorio3basededatos-mainvd\\crudlaboratorio3basededatos-main\\crudlaboratorio3basededatos-main\\equipodetrabajolabo3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|solutionrelative:equipodetrabajolabo3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|c:\\users\\anton\\downloads\\crudlaboratorio3basededatos-mainvd\\crudlaboratorio3basededatos-main\\crudlaboratorio3basededatos-main\\equipodetrabajolabo3\\controllers\\equipoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|solutionrelative:equipodetrabajolabo3\\controllers\\equipoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|c:\\users\\anton\\downloads\\crudlaboratorio3basededatos-mainvd\\crudlaboratorio3basededatos-main\\crudlaboratorio3basededatos-main\\equipodetrabajolabo3\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|solutionrelative:equipodetrabajolabo3\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|c:\\users\\anton\\downloads\\crudlaboratorio3basededatos-mainvd\\crudlaboratorio3basededatos-main\\crudlaboratorio3basededatos-main\\equipodetrabajolabo3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA75302-D873-48EA-84B6-1DE31A39B9CE}|Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj|solutionrelative:equipodetrabajolabo3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240505053117_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Migrations\\20240505053117_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Equipodetrabajolabo3\\Migrations\\20240505053117_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Migrations\\20240505053117_InitialCreate.cs",
+              "RelativeToolTip": "Equipodetrabajolabo3\\Migrations\\20240505053117_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:31:18.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240504081051_addEquiposTableToDb.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Migrations\\20240504081051_addEquiposTableToDb.cs",
+              "RelativeDocumentMoniker": "Equipodetrabajolabo3\\Migrations\\20240504081051_addEquiposTableToDb.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Migrations\\20240504081051_addEquiposTableToDb.cs",
+              "RelativeToolTip": "Equipodetrabajolabo3\\Migrations\\20240504081051_addEquiposTableToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:10:51.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Program.cs",
+              "RelativeDocumentMoniker": "Equipodetrabajolabo3\\Program.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Program.cs",
+              "RelativeToolTip": "Equipodetrabajolabo3\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:03:57.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Equipodetrabajolabo3\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Equipodetrabajolabo3\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:00:04.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Equipodetrabajolabo3.csproj",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj",
+              "RelativeDocumentMoniker": "Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj",
+              "RelativeToolTip": "Equipodetrabajolabo3\\Equipodetrabajolabo3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T07:59:02.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Models\\Equipo.cs",
+              "RelativeDocumentMoniker": "Equipodetrabajolabo3\\Models\\Equipo.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Models\\Equipo.cs",
+              "RelativeToolTip": "Equipodetrabajolabo3\\Models\\Equipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:52:36.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\appsettings.json",
+              "RelativeDocumentMoniker": "Equipodetrabajolabo3\\appsettings.json",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\appsettings.json",
+              "RelativeToolTip": "Equipodetrabajolabo3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T07:49:59.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EquipoesController.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Controllers\\EquipoesController.cs",
+              "RelativeDocumentMoniker": "Equipodetrabajolabo3\\Controllers\\EquipoesController.cs",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Controllers\\EquipoesController.cs",
+              "RelativeToolTip": "Equipodetrabajolabo3\\Controllers\\EquipoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:15:04.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Equipodetrabajolabo3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anton\\Downloads\\CrudLaboratorio3Basededatos-mainvd\\CrudLaboratorio3Basededatos-main\\CrudLaboratorio3Basededatos-main\\Equipodetrabajolabo3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Equipodetrabajolabo3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T08:15:46.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

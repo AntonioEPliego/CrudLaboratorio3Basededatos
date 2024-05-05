@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Equipodetrabajolabo3.props" />
+</Project>
